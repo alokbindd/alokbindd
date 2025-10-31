@@ -1,7 +1,8 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=alokbindd&color=blue)
 # 👋 Hi, I'm Alok Bind
 
 📍 Navi Mumbai, India  
-📧 **alokbindd@gmail.com** | 📞 **+91 93244 55010**  
+📧 **alokbindd@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/alokbind/) | [GitHub](https://github.com/alokbindd)
 
 ---
