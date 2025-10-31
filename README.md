@@ -2,7 +2,7 @@
 
 📍 Navi Mumbai, India  
 📧 **alokbindd@gmail.com** | 📞 **+91 93244 55010**  
-🔗 [LinkedIn](https://www.linkedin.com/in/alokbind/) | [GitHub](https://github.com/alokbind)
+🔗 [LinkedIn](https://www.linkedin.com/in/alokbind/) | [GitHub](https://github.com/alokbindd)
 
 ---
 
@@ -78,8 +78,8 @@ I enjoy building scalable web applications, integrating APIs, and crafting effic
 ---
 
 ## 📈 GitHub Stats
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokbind&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokbind&layout=compact&theme=tokyonight)
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight)
 
 ---
 
