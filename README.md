@@ -1,87 +1,105 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=alokbindd&color=blue)
-# 👋 Hi, I'm Alok Bind
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Alok Bind</span></h1>
 
-📍 Navi Mumbai, India  
-📧 **alokbindd@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/alokbind/) | [GitHub](https://github.com/alokbindd)
-
----
-
-## 🚀 About Me
-I’m a **Python Developer** with a strong foundation in programming, data handling, and web development.  
-Currently expanding my expertise in **Machine Learning, Data Science**, and **Django**.  
-I enjoy building scalable web applications, integrating APIs, and crafting efficient, user-focused solutions.
+<p align="center">
+  <b>💻 Python Full Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Web Developer</b><br>
+  <i>"Turning ideas into interactive, intelligent, and scalable digital experiences."</i>
+</p>
 
 ---
 
-## 🎓 Education
-**Bachelor of Engineering (Computer Engineering)**  
-📍 *Shivajirao S. Jondhale College of Engineering, Dombivli*  
-📆 *May 2025* | **CGPI: 8.17**
-
-**HSC (Science) – 86.50%**  
-📍 *Smt. Sushiladevi Deshmukh Vidyalaya & Jr College, Airoli*  
-📆 *Feb 2021*
-
-**SSC – 74.40%**  
-📍 *Mazidun High School & Junior College, Airoli*  
-📆 *Mar 2019*
+### 🧠 About Me
+- 🎓 Final-year **Computer Engineering** student at *Shivajirao S. Jondhale College of Engineering (Mumbai University)*  
+- 🧩 Skilled in **Django**, **React.js**, **RESTful APIs**, and **Database Management**  
+- 🤖 Exploring the integration of **AI/ML models** into modern web systems  
+- 💬 Passionate about building impactful, user-friendly, and data-driven web applications  
+- ⚡ Fun fact: I love debugging with lo-fi music & a cup of chai ☕
 
 ---
 
-## 💼 Work Experience
-**Intern — Bloomzen Infosolutions Pvt. Ltd., Thane**  
-📆 *Sep 2022 – Oct 2022*  
-- Developed and implemented Python-based projects.  
-- Built an **English Dictionary Application** with Tkinter, JSON, and difflib for word suggestions.  
-- Strengthened debugging and testing skills while ensuring efficient code execution.  
-- Collaborated in a team environment, delivering tasks under tight deadlines.
+### 🏗️ Projects
+
+#### 👗 [ARStyle: AI Fashion Advisor with AR Try-on](https://github.com/alokbindd/arstyle)
+> AI + AR + Fashion — Developed using **Django**, **React.js**, **TensorFlow**, and **OpenCV**.  
+> Integrated REST APIs for e-commerce data and implemented virtual try-on functionality.
+
+#### 🎧 [Emotion Detection with Music Recommendation](https://github.com/alokbindd/emotion-music)
+> Built with **Python** and **CNNs**, capable of detecting emotions from multimedia inputs  
+> and suggesting personalized music recommendations.
+
+#### 📘 [English Dictionary App](https://github.com/alokbindd/english-dictionary)
+> A Tkinter GUI-based English Dictionary app that uses **difflib** for intelligent word correction.
 
 ---
 
-## 💡 Project Experience
+### 🧰 Tech Stack
 
-### 🧠 English Dictionary (2022–23)
-- Built using **Python (Tkinter, PIL, JSON)**.
-- Added intelligent word correction using **difflib**.
-- Delivered a simple, efficient, and interactive GUI.
+#### 🖥️ Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+</p>
 
-### 🎵 Emotion Detection with Music Recommendation (2023–24)
-- Created a **CNN-based Emotion Detection System**.
-- Detected emotions from multimedia inputs and suggested music accordingly.
-- Designed a responsive, user-friendly interface.
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+</p>
 
-### 👗 ARStyle: AI Fashion Advisor with E-commerce Integration (2024–25)
-- Developed an **AI-driven fashion recommendation system**.
-- Used **computer vision** for virtual try-on and **inpainting models** for AR simulation.
-- Integrated backend API with **e-commerce data** to personalize fashion experiences.
+#### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white&label=Django%20REST%20Framework" />
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black" />
+</p>
 
----
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+</p>
 
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|-----------|---------|
-| **Languages** | Python, Java (Intermediate) |
-| **Databases** | MySQL, Oracle Database |
-| **Frameworks** | Django, Flask, Tkinter |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Other** | API Integration, Project Planning |
-
----
-
-## 📜 Certifications
-- 🐍 **Programming with Python** — Bloomzen Infosolutions Pvt. Ltd. *(Sep 2022)*  
-- 💻 **Hotstar Clone (HTML, CSS, JavaScript)** — GDSC *(Jul 2023)*  
-- 🔗 **Postman API Fundamentals Student Expert** — Canvas Credentials *(Jan 2024)*  
-- 🏆 **Smart India Hackathon 2023** — Secured **2nd Place** (College-Level Internal Hackathon)
-
----
-
-## 📈 GitHub Stats
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight)
+#### 🧩 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-⭐ **"Passionate about learning, building, and innovating with code."**
+### 🏆 Certifications & Achievements
+- 🧠 **Postman API Fundamentals Student Expert** – *Canvas Credentials (Jan 2024)*  
+- 🥈 **Smart India Hackathon 2023** – *Secured 2nd place in College-Level Internal Hackathon*  
+- 🎥 **Hotstar Clone Project** – *Google Developer Student Clubs (Jul 2023)*  
+- 🐍 **Programming with Python** – *Bloomzen Infosolutions Pvt. Ltd. (Sep 2022)*  
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:alokbindd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alokbind/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/alokbindd"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ <i>"Code. Learn. Build. Repeat."</i> 🚀</p>
