@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final-year **Computer Engineering** student at *Shivajirao S. Jondhale College of Engineering (Mumbai University)*  
+- 🎓 **Computer Engineering** *Shivajirao S. Jondhale College of Engineering (Mumbai University)*  
 - 🧩 Skilled in **Django**, **React.js**, **RESTful APIs**, and **Database Management**  
 - 🤖 Exploring the integration of **AI/ML models** into modern web systems  
 - 💬 Passionate about building impactful, user-friendly, and data-driven web applications  
