@@ -82,13 +82,11 @@
 ---
 
 ### 📊 GitHub Insights
-## 📊 GitHub Stats
 
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github.com/alokbindd.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight)
+![Contribution Graph](https://github.com/users/alokbindd/contributions)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight)
 
 ---
 
