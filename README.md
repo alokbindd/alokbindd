@@ -82,14 +82,13 @@
 ---
 
 ### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight" height="160" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight" height="160" />
-</p>
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight)
 
 ---
 
