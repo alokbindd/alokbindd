@@ -89,7 +89,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight" height="160" />
+  <img
+    src="https://ghchart.rshah.org/95d5b2/alokbindd"
+    width="460"
+  />
 </p>
 
 ---
