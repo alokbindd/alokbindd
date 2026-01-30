@@ -85,7 +85,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=alokbindd&bg_color=0f1117&color=b7e4c7&title_color=cdb4db&line=95d5b2&point=d8f3dc&area=true&area_color=b7e4c7&hide_border=true"
-    width="540"
+    width="100%"
   />
 </p>
 
