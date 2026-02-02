@@ -90,8 +90,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbindd&layout=compact&theme=tokyonight" height="160" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=alokbindd&theme=dark&hide_border=true&background=0f1117&ring=95d5b2&fire=95d5b2&currStreakNum=d8f3dc&sideNums=d8f3dc&currStreakLabel=cdb4db&sideLabels=cdb4db&dates=b7e4c7"
+    width="420"
+  />
 </p>
 
 ---
