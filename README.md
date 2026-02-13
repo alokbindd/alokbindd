@@ -19,10 +19,10 @@
 
 ### 🏗️ Projects
 
-#### 🛒 [StyloKart](https://github.com/alokbindd/StyloKart)
-> A cloud-deployed **enterprise-ready e-commerce solution** built with **Django** and scalable web architecture principles.  
-> Features secure user authentication, real-time cart system, structured product management, and streamlined order workflows.  
-> Designed for reliability and performance, and actively running in production on **AWS Elastic Beanstalk**.
+#### 🛒 [StyloKart — Live E-commerce Project](https://github.com/alokbindd/StyloKart) | 🌐 [Live](http://stylokart-env.eba-pydmw3zp.ap-south-1.elasticbeanstalk.com/)
+
+> A cloud-deployed, production-ready e-commerce solution built using **Django** and hosted on **AWS Elastic Beanstalk**.  
+> Features secure authentication, real-time cart management, structured product workflows, and scalable cloud deployment.
 
 #### 👗 [ARStyle: AI Fashion Advisor with AR Try-on](https://github.com/alokbindd/arstyle)
 > AI + AR + Fashion — Developed using **Django**, **React.js**, **TensorFlow**, and **OpenCV**.  
