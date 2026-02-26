@@ -32,9 +32,6 @@
 > Built with **Python** and **CNNs**, capable of detecting emotions from multimedia inputs  
 > and suggesting personalized music recommendations.
 
-#### 📘 [English Dictionary App](https://github.com/alokbindd/english-dictionary)
-> A Tkinter GUI-based English Dictionary app that uses **difflib** for intelligent word correction.
-
 ---
 
 ### 🧰 Tech Stack
