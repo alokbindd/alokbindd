@@ -11,7 +11,7 @@
 
 - 🎓 Computer Engineering Graduate – Mumbai University  
 - 💻 Backend-focused developer specializing in **Python, Django, and REST APIs**  
-- ☁️ Experienced in deploying applications using **AWS (Elastic Beanstalk, RDS, S3)**  
+- ☁️ Experienced in deploying applications using **AWS (EC2, Elastic Beanstalk, RDS, S3)**  
 - 🤖 Interested in **AI-powered applications and scalable backend architecture**  
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1dmY0ksqQhl7ntQqGHSOeV3CgRl2tiP-b/view?usp=sharing)**  
 
