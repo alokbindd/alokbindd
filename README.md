@@ -70,20 +70,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alokbindd&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokbindd&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokbindd&bg_color=0f1117&color=b7e4c7&title_color=cdb4db&line=95d5b2&point=d8f3dc&area=true&area_color=b7e4c7&hide_border=true"/>
-</p>
-
-
 
 ## 🌐 Connect With Me
 <p align="center">
