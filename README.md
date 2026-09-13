@@ -13,7 +13,7 @@
 - 💻 Backend-focused developer specializing in **Python, Django, and REST APIs**  
 - ☁️ Experienced in deploying applications using **AWS (EC2, Elastic Beanstalk, RDS, S3)**  
 - 🤖 Interested in **AI-powered applications and scalable backend architecture**  
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/121glq6W9xoeo21I7komPcK0GWE7A7OIQ/view)**  
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1560i6QP37Tn-Jmob_eKmpObjCg4O74JD/view)**  
 
 
 
